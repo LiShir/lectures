@@ -4,3 +4,4 @@
 2. [IDE Buttle](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/IDE-battle.md)
 3. [GIT Basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/git.md) 
 4. [HTML & CSS Basics](https://github.com/rolling-scopes-school/lectures/blob/master/lectures/html-css-basics.md)
+https://www.codecademy.com/users/webNinja02609/achievements
